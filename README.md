@@ -33,6 +33,7 @@ Designed as a free, open-source alternative to commercial protective film kits.
 1. Download the files from the [Releases](../../releases) page
 2. Open `.FCStd` files in [FreeCAD](https://www.freecad.org/) to view or edit
 3. Use the exported DXF/SVG files with your vinyl cutter or send to a print shop
+4. If you don't have access to proper film cutter, you can resort to printing designs on paper and tracing them with snap-off blade (just as I did!)
 
 ---
 
@@ -58,9 +59,6 @@ Probably, with some effort:
 - **Fork and Chain Stay(?)** — should work without modification on any full-size wheel frame
 - **Down Tube** — straightforward to make longer or shorter
 - **Seat Tube and other parts** — may require more significant adjustments
-
-**What do I need to cut the film?**
-A vinyl/PPF cutter (e.g. Cricut, Silhouette, or a professional plotter). The DXF/SVG exports are cut-ready.
 
 ---
 
