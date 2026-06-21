@@ -36,6 +36,13 @@ Designed as a free, open-source alternative to commercial protective film kits.
 
 ---
 
+## Areas for improvement
+
+1. I was working with 150 mm wide tape. Down Toube would benefit from 180 mm wide tape, Head Tube could use 160 mm.
+2. Small, irregulary shaped patches went directly from masking tape to cutouts. No CAD files were made. Sorry!
+
+---
+
 ## FAQ
 
 **Is this as good as BrandWrap $200 kit?**
