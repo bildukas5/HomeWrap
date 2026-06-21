@@ -10,7 +10,7 @@ Designed as a free, open-source alternative to commercial protective film kits.
 
 ## Overview
 
-- **Bike:** Canyon Endurace CF8
+- **Bike:** [Canyon Endurace CF8](https://www.canyon.com/en-lt/endurace-cf-8-di2/4363.html?dwvar_4363_pv_rahmenfarbe=R076_P10)
 - **Frame size:** M
 - **Coverage:** 90%+ of the frame
 - **CAD software:** [FreeCAD](https://www.freecad.org/) (free and open source)
