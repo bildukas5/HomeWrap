@@ -40,6 +40,8 @@ Designed as a free, open-source alternative to commercial protective film kits.
 
 1. I was working with 150 mm wide tape. Down Toube would benefit from 180 mm wide tape, Head Tube could use 160 mm.
 2. Small, irregulary shaped patches went directly from masking tape to cutouts. No CAD files were made. Sorry!
+3. Some corners were not properly rounded in CAD files. Make sure you don't leave any sharp corners as those will be first to peal off.
+4. Some lines were not properly trimmed. Sorry!
 
 ---
 
