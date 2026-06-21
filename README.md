@@ -23,9 +23,8 @@ Designed as a free, open-source alternative to commercial protective film kits.
 
 | File | Description |
 |---|---|
-| `source/` | Native FreeCAD `.FCStd` files |
-| `exports/` | DXF / SVG exports ready for cutting |
-| `renders/` | Preview images |
+| `CAD/` | Native FreeCAD `.FCStd` files |
+| `photos/` | Results |
 
 ---
 
@@ -39,15 +38,15 @@ Designed as a free, open-source alternative to commercial protective film kits.
 
 ## FAQ
 
-**Is this as good as a professional kit (e.g. ~$200 option)?**
+**Is this as good as BrandWrap $200 kit?**
 No. This is an amateur first attempt at CAD design and bike protection. If you want professional results, buy a professional product.
 
-**Is it better than cheaper commercial options (e.g. ~$70 kits)?**
+**Is it better than BrandWrap $70 kit?**
 Possibly. It offers 90%+ frame coverage and is tailored specifically to this frame rather than being a generic cut.
 
 **Can it be adapted to a different frame size?**
 Probably, with some effort:
-- **Fork and Chain Stay** — should work without modification on any full-size wheel frame
+- **Fork and Chain Stay(?)** — should work without modification on any full-size wheel frame
 - **Down Tube** — straightforward to make longer or shorter
 - **Seat Tube and other parts** — may require more significant adjustments
 
