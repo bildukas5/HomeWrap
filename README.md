@@ -57,7 +57,7 @@ Designed as a free, open-source alternative to commercial protective film kits.
 
 **Can it be adapted to a different frame size?**
 Probably, with some effort:
-- **Fork and Chain Stay(?)** — should work without modification on any full-size wheel frame
+- **Fork and Chain Stay(?)** — should work without modification on all full-size wheel CF8 frames
 - **Down Tube** — straightforward to make longer or shorter
 - **Seat Tube and other parts** — may require more significant adjustments
 
