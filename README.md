@@ -1,6 +1,6 @@
 # Canyon Endurace CF8 — Protective Film Cutouts
 
-CAD cutout designs for applying protective film (PPF/vinyl) to the **Canyon Endurace CF8 frame, size M**.
+CAD cutout designs for applying protective film (TPU/vinyl) to the **Canyon Endurace CF8 frame, size M**.
 Designed as a free, open-source alternative to commercial protective film kits.
 
 ![Frame coverage placeholder](photos/front.jpg)
