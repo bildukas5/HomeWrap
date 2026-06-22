@@ -35,6 +35,8 @@ Designed as a free, open-source alternative to commercial protective film kits.
 2. Open `.FCStd` files in [FreeCAD](https://www.freecad.org/) to view or edit
 3. Use the exported DXF/SVG files with your vinyl cutter or send to a print shop
 4. If you don't have access to proper film cutter, you can resort to printing designs on paper and tracing them with snap-off blade (just as I did!)
+5. I recommend to watch protectice film application tutorials on YouTube before you start 
+6. I suggest starting with Head Tube and move on to Top/Down Tubes.
 
 ---
 
