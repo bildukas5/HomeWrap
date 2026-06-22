@@ -65,7 +65,7 @@ Probably, with some effort:
 
 ## ⚠️ Disclaimer
 
-- **No fit guarantee.** These designs were created for a specific Canyon Endurace CF8 frame size M. Frame tolerances, production batches, and measurement variations mean the cutouts may not fit your bike perfectly. **Always do a test run with paper or cheap material before cutting expensive PPF or vinyl film.**
+- **No fit guarantee.** These designs were created for a specific Canyon Endurace CF8 frame size M. Frame tolerances, production batches, and measurement variations mean the cutouts may not fit your bike perfectly. **Always do a test run with paper or cheap material before cutting expensive TPU or vinyl film.**
 - **Use at your own risk.** The author is not responsible for any damage to your bike, frame, components, or paint caused by the application, removal, or use of protective film based on these designs.
 - **Film application can cause damage.** Improper application or removal of protective film can damage paint, carbon fiber, or decals. If in doubt, consult a professional.
 - **No warranty.** These files are provided "as is", without warranty of any kind, express or implied. The author makes no guarantees about accuracy, fitness for purpose, or suitability for any particular use.
