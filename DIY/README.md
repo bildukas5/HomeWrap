@@ -26,6 +26,7 @@ In this project, **TESA Pro** masking tape was used and worked very well. Any hi
 > ⚠️ Avoid cheap masking tape — it tears easily, leaves residue, and doesn't stretch around curves.
 
 ![frame1](frame1.jpg)
+![frame2](frame2.jpg)
 ---
 
 ## Step 2 — Trim the Shape
@@ -49,7 +50,7 @@ With the tape shape flat on the cutting board, take manual measurements of all k
 - Overall length and width
 - Curves and radii where possible
 - Any cutouts or notches
-
+![cb](cutting.board.jpg)
 ---
 
 ## Step 5 — Recreate in FreeCAD
@@ -75,7 +76,7 @@ The process is straightforward:
 4. Apply the resulting piece to the frame
 
 This is less precise than a CAD-derived cut but works well for small patches where slight imperfections are less noticeable. It's also much faster for one-off pieces you don't need to reproduce exactly.
-
+![small](small.jpg)
 ---
 
 ## Tips & Lessons Learned
