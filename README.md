@@ -26,6 +26,7 @@ Designed as a free, open-source alternative to commercial protective film kits.
 |---|---|
 | `CAD/` | Native FreeCAD `.FCStd` files |
 | `photos/` | Results |
+| `DIY/` | Short tutorial |
 
 ---
 
