@@ -25,7 +25,7 @@ In this project, **TESA Pro** masking tape was used and worked very well. Any hi
 
 > ⚠️ Avoid cheap masking tape — it tears easily, leaves residue, and doesn't stretch around curves.
 
-![frame1](DIY/frame1.jpg)
+![frame1](frame1.jpg)
 ---
 
 ## Step 2 — Trim the Shape
