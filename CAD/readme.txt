@@ -12,3 +12,4 @@ HeadTube.FCStd - Head Tube
 SeatBack.FCStd - Back of Seat Stay (under the seat)
 SeatStay.FCStd - Seat Stay
 TopTube.FCStd - Top Tube
+SeatTube.FCStd - Seat Tube
